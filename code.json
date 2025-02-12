@@ -1,0 +1,46 @@
+{
+  "name": "oss-community-runbook",
+  "description": "Runbook for helping to stand-up Open Source Communities",
+  "longDescription": "",
+  "status": "",
+  "permissions": {
+    "license": [
+      {
+        "name": "",
+        "URL": ""
+      }
+    ],
+    "usageType": "",
+    "exemptionText": ""
+  },
+  "organization": "",
+  "repositoryURL": "https://github.com/DSACMS/oss-community-runbook",
+  "vcs": "git",
+  "laborHours": 2352,
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [
+    "Shell"
+  ],
+  "maintenance": "",
+  "date": {
+    "created": "2023-07-20T20:34:00Z",
+    "lastModified": "2025-02-12T03:21:07Z",
+    "metaDataLastUpdated": "2025-02-12T03:23:53.751Z"
+  },
+  "tags": [],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "subsetInHealthcare": [],
+  "userType": [],
+  "repositoryHost": "github",
+  "maturityModelTier": 0
+}
