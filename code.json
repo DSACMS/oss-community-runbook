@@ -2,45 +2,45 @@
   "name": "oss-community-runbook",
   "description": "Runbook for helping to stand-up Open Source Communities",
   "longDescription": "",
-  "status": "",
+  "status": "Development",
   "permissions": {
     "license": [
       {
-        "name": "",
-        "URL": ""
+        "name": "CC0 1.0 Universal",
+        "URL": "https://github.com/DSACMS/oss-community-runbook/blob/main/LICENSE.md"
       }
     ],
-    "usageType": "",
+    "usageType": "openSource",
     "exemptionText": ""
   },
-  "organization": "",
+  "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/oss-community-runbook",
   "vcs": "git",
   "laborHours": 2352,
-  "platforms": [],
-  "categories": [],
-  "softwareType": "",
+  "platforms": ["web"],
+  "categories": ["resource-management", "collaboration"],
+  "softwareType": "standalone/web",
   "languages": [
     "Shell"
   ],
-  "maintenance": "",
+  "maintenance": "internal",
   "date": {
     "created": "2023-07-20T20:34:00Z",
     "lastModified": "2025-02-12T03:21:07Z",
     "metaDataLastUpdated": "2025-02-12T03:23:53.751Z"
   },
-  "tags": [],
+  "tags": ["repository"],
   "contact": {
-    "email": "",
-    "name": ""
+   "email": "opensource@cms.hhs.gov",
+    "name": "CMS/OA/DSAC"
   },
   "localisation": false,
-  "repositoryType": "",
+  "repositoryType": "website",
   "userInput": false,
-  "fismaLevel": "",
-  "group": "",
-  "subsetInHealthcare": [],
-  "userType": [],
-  "repositoryHost": "github",
-  "maturityModelTier": 0
+  "fismaLevel": "low",
+  "group": "CMS/OA/DSAC",
+  "subsetInHealthcare": "Operational",
+  "userType": "government",
+  "repositoryHost": "github.com/DSACMS",
+  "maturityModelTier": 2
 }
