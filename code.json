@@ -1,46 +1,76 @@
 {
   "name": "oss-community-runbook",
+  "version": "",
   "description": "Runbook for helping to stand-up Open Source Communities",
-  "longDescription": "",
+  "longDescription": "This repository serves as a template for federal open source projects containing information needed to stand up federal open source projects. This is a precursor of repo-scaffolder, initially serving as a Tier 3 template for the Simpler Grants project.",
   "status": "Development",
   "permissions": {
-    "license": [
+    "licenses": [
       {
-        "name": "CC0 1.0 Universal",
+        "name": "CC0-1.0",
         "URL": "https://github.com/DSACMS/oss-community-runbook/blob/main/LICENSE.md"
       }
     ],
-    "usageType": "openSource",
+    "usageType": ["openSource"],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/oss-community-runbook",
+  "repositoryHost": "github.com/DSACMS",
+  "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2352,
-  "platforms": ["web"],
-  "categories": ["resource-management", "collaboration"],
+  "laborHours": 2489,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "resource-management",
+    "collaboration"
+  ],
   "softwareType": "standalone/web",
   "languages": [
     "Shell"
   ],
   "maintenance": "internal",
+  "contractNumber": [],
+  "SBOM": "https://github.com/DSACMS/oss-community-runbook/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-07-20T20:34:00Z",
-    "lastModified": "2025-02-12T03:21:07Z",
-    "metaDataLastUpdated": "2025-02-12T03:23:53.751Z"
+    "lastModified": "2025-11-07T15:51:25Z",
+    "metadataLastUpdated": "2025-11-07T15:53:09.273Z"
   },
-  "tags": ["repository"],
+  "tags": [
+    "repository"
+  ],
   "contact": {
-   "email": "opensource@cms.hhs.gov",
+    "email": "opensource@cms.hhs.gov",
     "name": "CMS/OA/DSAC"
   },
+  "feedbackMechanism": "https://github.com/DSACMS/oss-community-runbook/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "website",
   "userInput": false,
   "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
-  "subsetInHealthcare": "Operational",
-  "userType": "government",
-  "repositoryHost": "github.com/DSACMS",
-  "maturityModelTier": 2
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [
+    "operational"
+  ],
+  "userType": [
+    "government"
+  ],
+  "maturityModelTier": 3
 }
