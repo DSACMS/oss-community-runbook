@@ -2,7 +2,7 @@
   "name": "oss-community-runbook",
   "version": "",
   "description": "Runbook for helping to stand-up Open Source Communities",
-  "longDescription": "",
+  "longDescription": "This repository serves as a template for federal open source projects containing information needed to stand up federal open source projects. This is a precursor of repo-scaffolder, initially serving as a Tier 3 template for the Simpler Grants project.",
   "status": "Development",
   "permissions": {
     "licenses": [
@@ -72,5 +72,5 @@
   "userType": [
     "government"
   ],
-  "maturityModelTier": 2
+  "maturityModelTier": 3
 }
