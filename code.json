@@ -11,7 +11,9 @@
         "URL": "https://github.com/DSACMS/oss-community-runbook/blob/main/LICENSE.md"
       }
     ],
-    "usageType": ["openSource"],
+    "usageType": [
+      "openSource"
+    ],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
@@ -23,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2489,
+  "laborHours": 2520,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -47,8 +49,8 @@
   "partners": [],
   "date": {
     "created": "2023-07-20T20:34:00Z",
-    "lastModified": "2025-11-07T15:51:25Z",
-    "metadataLastUpdated": "2025-11-07T15:53:09.273Z"
+    "lastModified": "2025-11-13T21:28:30Z",
+    "metadataLastUpdated": "2026-01-01T02:25:25.921Z"
   },
   "tags": [
     "repository"
